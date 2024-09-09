@@ -1,11 +1,21 @@
 # Summary
 
-[Introduction](./intro.md)
-- [Class](./zero.md)
+[Welcome!](./welcome.md)
+- [Class](./syllabus.md)
   - [Week 1](./one.md)
+  - [Week 2](./two.md)
+  - [Week 3]()
+  - [Week 4]()
+  - [Week 5]()
+  - [Week 6]()
+  - [Week 7]()
+  - [Week 8]()
 ---
 - [Basics](./basics.md)
-  - [Etiquette](./etiquette.md)
+  - [How To Open Mic](./guide.md)
+  - [FAQ]()
+  - [Things to Avoid]()
+  - [Glossary]()
 ---
-[Resources](chicago.md)
+[Chicago Resources](chicago.md)
 [Closing Thoughts]()

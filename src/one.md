@@ -2,17 +2,36 @@
 
 Great sets radiate the comedian's personality and ideas. The best punchlines hit not only because they're well-crafted, but because they simultaneously perfectly capture a comedian's unique sense of humor and worldview. With just a few concise lines, the audience suddenly sees the world from the eyes of whoever is on stage... and this is what makes jokes hit hardest. 
 
-The next 6 lessons give guidelines and exercises to learn technical writing and sharp performance. The real tragedy is that these skills can sometimes pull the comedian away from talking about something they actually care about and find funny. Sometimes technique obfuscates who the comedian really is as a person, which renders the stand-up meaningless, or worse, unfunny. 
+The next 7 lessons give guidelines and exercises to learn technical writing and sharp performance. Unforunately, these skills can sometimes pull the comedian away from talking about something they actually care about and find funny. Sometimes technique obfuscates who the comedian really is as a person, which renders the stand-up meaningless, or worse, unfunny. 
 
 Everything about stand-up has to bleed you. The more "you" that permeates every idea, word, pause... the harder the jokes will hit. 
 
 Throughout the course, I'd return to this question: "am I being myself up there?"
 
-## Audience assumptions
+## Write what you care about
 
-The Tonight Show infrequently features stand-up comedians, and when they do, they're usually quite famous. Ever so often, they feature an up and comer, someone who the audience probably doesn't know. This is the context of which you'll most likely always go up with. 
+Making something funny is hard, but I'd advise against choosing topics or ideas SIMPLY they seem easier to make funny.
 
-The comedian must explain who they are. My favorite sets are the ones who do so in the comedy equivalent of "showing, not telling." They don't say who they are, their subject matter, their logic, their dress, their cadence make it clear. 
+Write about things what you care about (and those things can be dumb and silly). Some comics will have a joke fall flat and remark that it was only for a few people in the room. While I'd say in most cases that joke was for no one in the room and was bad, you should think about what jokes what be just "for you?" What topics would you be so excited if a comic was talking about... that's the joke you should write.
+
+I try not to post full sets here (and instead link to them) as to not bog down reading through these materials in entirety, but I do think the entire next set is important viewing.
+
+<video width="100%" height="auto" controls loop>
+  <source src="./media/gary.webm" type="video/webm">
+</video> 
+
+The benefit of writing about what you care about is it is an lens into who you are. You can understand who someone is when they talk about something they're excited about.
+
+
+## What irritates?
+
+When I suggest writing about what you're passionate about, I don't mean for this imply the topics have to be grand in scope, or the hottest takes. 
+
+Stand-up is generally sophisticated complaining.
+
+## Show, Not Tell
+
+Over the set, the comedian must explain who they are. My favorite sets are the ones who do so in the comedy equivalent of "showing, not telling." They don't start with a barrage of facts about where they grew up, what their parents were like, what their current job is... instead their subject matter, their logic, their dress, their cadence make it clear. 
 
 Dusty Slay, a comic largely unknown when they debuted on the Tonight Show, nails this. 
 
@@ -22,9 +41,9 @@ Dusty Slay, a comic largely unknown when they debuted on the Tonight Show, nails
   </video>
 </a>
 
-Use this set to think about audience assumptions. Which jokes  does Dusty explicitely address audience assumptions? Does he undermine these assumptions or lean into them? At what points does he rely on implicit assumptions?
+Sharp, concise sets take advantage of the fact that audiences have assumptions based on their first impression of a comedian. If certain assumptions are correct, you can leave them unsaid and get to the point. If the assumptions are incorrect, you can then subvert these for a joke. But try and learn what the audience is assuming about you, it might not always perfectly line up with what you're trying to prpoject.  
 
-## Find the "latent" assumptions
+### Find the "latent" assumptions
 
 Simply addressing assumptions can get hack[^2] quickly. It's hard to have a "I know what you're thinking... I look like BLANK had sex with BLANK" that is funny. Instead, find the "latent" assumptions, the assumptions that sit in the audiences subconscious that they only realize once you utter it. 
 
@@ -40,17 +59,8 @@ Which are the "latent" assumptions that Jo addresses? How does it toe the line b
 
 These latent assumptions are hard to discover, and usually only come up during brief moments of inspiration or a loved one being rude to me. A little trick that can get closer to this is to take an obvious assumption, then come up with a habit/thing/task that a person fulfilling that assumption usually does, and jump straight to there. Matt Lockwood, an LA comic, has a great line where he goes "people always think I get my foot stuck in a lot of buckets." [^3]
 
-## Subject matter 
 
-Enough about the audience and their assumptions. You're on stage, you also have the power to guide and shape what they think about you.
 
-Most fundamental to the audience understanding who you are is your subject matter, the very premises of your jokes. Lets start by watching one of the most famous late-night sets by Gary Gulman.
-
-<video width="100%" height="auto" controls loop>
-  <source src="./media/gary.webm" type="video/webm">
-</video> 
-
-Over the set, did you get a picture of who Gary "is?" What about his premises did so?
 
 ## Assignment
 
